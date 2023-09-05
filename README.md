@@ -1,4 +1,4 @@
-# Voice-Assistant-in-Python-and-ML
+# Voice-Assistant-in-Python
 # Voice Assistant Project
 
 ![desktop-800x450](https://github.com/AlpanaToppo/Voice-Assistant-in-Python-and-ML/assets/141553812/86c08d2e-2e28-4b9a-9d44-df9c63d4c287)
